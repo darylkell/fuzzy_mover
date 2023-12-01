@@ -26,8 +26,8 @@ options:
 - Install requirements: `pip install -r requirements.txt`
 
 ### Example usage
-Look for a directory in C:\Comics to move 'Huffy the Brick Layer' file into.<b>
-`python file_fuzzy.py "Huffy the Brick Layer #38 (2023)" --output C:\Comics`
+Look for a directory in C:\Comics to move 'Huffy the Brick Layer' file into.<br>
+```python file_fuzzy.py "Huffy the Brick Layer #38 (2023)" --output C:\Comics```
 
 ### Requirements
 - fuzzywuzzy=0.18.0
